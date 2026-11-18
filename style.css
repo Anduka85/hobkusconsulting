@@ -78,8 +78,3 @@ footer p{color:#d5dcf2;max-width:34ch;font-size:.95rem}
 .grid3,.tiers{grid-template-columns:1fr}.cell{border-right:0}.steps{grid-template-columns:1fr;gap:26px}.steps::before{display:none}
 .approach div:nth-child(odd){border-right:0}section{padding:60px 0}form{grid-template-columns:1fr}nav{gap:16px}.hero{padding:64px 0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
-.hero{position:relative}
-.hero::before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#08153f 0%,#08153f 50%,rgba(8,21,63,0) 85%)}
-.hero .wrap{position:relative;z-index:1}
-.hero p.lead{max-width:44ch}
-@media(max-width:860px){.hero::before{background:rgba(8,21,63,.88)}}
