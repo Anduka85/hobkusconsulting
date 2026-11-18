@@ -29,8 +29,18 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,te
 section{padding:88px 0}.dark{background:var(--navy);color:#fff}.dark p{color:#d5dcf2}.white{background:#fff}
 .muted{color:var(--muted)}
 .split{display:grid;grid-template-columns:1fr 1fr;gap:64px;align-items:center}
-.panel{aspect-ratio:4/3;background:linear-gradient(135deg,var(--deep),#1b3a8f);position:relative}
-.panel::after{content:"";position:absolute;right:-18px;bottom:-18px;width:26%;aspect-ratio:1;background:var(--gold)}
+.panel {
+  aspect-ratio: 4/3;
+  background-image: url('img/who-we-are.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.panel::after {
+  display: none;
+}
 .quote{border-left:3px solid var(--gold);padding:.2rem 0 .2rem 1.2rem;margin:1.8rem 0}
 .quote strong{font:600 1.2rem var(--serif);display:block}
 .pair{display:grid;grid-template-columns:1fr 1fr;gap:28px;margin-top:1.5rem}
