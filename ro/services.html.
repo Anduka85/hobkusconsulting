@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<title>Consultanță Transport Rutier și Logistică | HOBKUS</title>
+<meta name="description" content="Servicii de consultanță pentru firme de transport: înființare companii, conformitate, recrutare șoferi, management flotă, operațiuni și dezvoltare comercială.">
+
+<link rel="alternate" hreflang="ro" href="https://hobkusconsulting.com/ro/services.html">
+<link rel="alternate" hreflang="en" href="https://hobkusconsulting.com/services.html">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+<header>
+<div class="wrap">
+<a class="logo" href="index.html">
+<img src="../img/hobkus-logo.svg" alt="HOBKUS Consulting" style="width:115px;height:auto;display:block;">
+</a>
+<nav>
+<a href="services.html" class="active">Servicii</a>
+<a href="about.html">Despre noi</a>
+<a href="contact.html">Contact</a>
+<a href="../services.html" lang="en">EN</a>
+<a class="btn-o" href="contact.html">Contactează-ne</a>
+</nav>
+</div>
+</header>
+
+<section class="hero" style="background-image:linear-gradient(90deg,rgba(8,21,63,.93),rgba(8,21,63,.6)),url('../img/hero-services.jpg')">
+<div class="wrap">
+<p class="eyebrow">Serviciile noastre</p>
+<h1>Servicii integrate, de la înființare la operațiuni</h1>
+<p class="lead">Fiecare colaborare este construită în jurul unui plan unic de implementare, care acoperă funcțiile esențiale pentru dezvoltarea și funcționarea unei companii de transport.</p>
+</div>
+</section>
+
+<section class="light" style="padding-top:24px">
+<div class="wrap">
+
+<article class="svc">
+<div class="svc-h">
+<span class="n">01</span>
+<h2>Înființare companii și conformitate</h2>
+<p class="muted">Structură, documentație, responsabilități și planificare.</p>
+</div>
+<ul>
+<li>Înființarea și înregistrarea societăților comerciale</li>
+<li>Conformitate legislativă, autorizări și licențiere</li>
+<li>Proiectarea structurii organizaționale</li>
+<li>Definirea responsabilităților și a cadrului de coordonare</li>
+<li>Planificarea etapelor și termenelor de implementare</li>
+</ul>
+</article>
+
+<article class="svc">
+<div class="svc-h">
+<span class="n">02</span>
+<h2>Deschiderea unei filiale în România</h2>
+<p class="muted">Administrare locală, locație, echipă și lansarea activității.</p>
+</div>
+<ul>
+<li>Înregistrarea și administrarea entității locale</li>
+<li>Identificarea locațiilor pentru birouri și baze operaționale</li>
+<li>Relația cu autoritățile locale și obținerea autorizațiilor</li>
+<li>Coordonarea lansării operațiunilor</li>
+<li>Implementarea cerințelor locale de conformitate și raportare</li>
+</ul>
+</article>
+
+<article class="svc">
+<div class="svc-h">
+<span class="n">03</span>
+<h2>Resurse umane și organizare</h2>
+<p class="muted">Management, dispecerat, personal administrativ și șoferi.</p>
+</div>
+<ul>
+<li>Recrutarea și integrarea echipei de management</li>
+<li>Organizarea și instruirea echipei de dispecerat</li>
+<li>Selecția personalului administrativ</li>
+<li>Recrutarea șoferilor profesioniști și verificarea calificărilor</li>
+<li>Procese HR, contracte de muncă și structurarea salarizării</li>
+</ul>
+</article>
+
+<article class="svc">
+<div class="svc-h">
+<span class="n">04</span>
+<h2>Management flotă și furnizori</h2>
+<p class="muted">Configurare flotă, leasing, service, anvelope și telematică.</p>
+</div>
+<ul>
+<li>Configurarea flotei și stabilirea specificațiilor tehnice</li>
+<li>Sprijin în identificarea soluțiilor de leasing și finanțare</li>
+<li>Negocierea contractelor de service și mentenanță</li>
+<li>Selectarea și gestionarea furnizorilor de anvelope</li>
+<li>Implementarea sistemelor de telematică și monitorizare GPS</li>
+</ul>
+</article>
+
+<article class="svc">
+<div class="svc-h">
+<span class="n">05</span>
+<h2>Operațiuni de transport și indicatori KPI</h2>
+<p class="muted">Planificare, documente, cost/km, venit/km și utilizarea flotei.</p>
+</div>
+<ul>
+<li>Organizarea planificării și programării operațiunilor</li>
+<li>Documentație de transport și conformitate</li>
+<li>Monitorizarea costului pe kilometru și a venitului pe kilometru</li>
+<li>Analiza gradului de utilizare a flotei</li>
+<li>Crearea tablourilor de bord KPI și stabilirea raportărilor periodice</li>
+</ul>
+</article>
+
+<article class="svc">
+<div class="svc-h">
+<span class="n">06</span>
+<h2>Dezvoltare comercială</h2>
+<p class="muted">Ofertare, negociere, marje, riscuri și creștere.</p>
+</div>
+<ul>
+<li>Dezvoltarea sistemului de ofertare și a strategiei de preț</li>
+<li>Sprijin în negocierea cu clienții</li>
+<li>Analiza marjelor și a profitabilității</li>
+<li>Evaluarea riscurilor comerciale</li>
+<li>Planificarea creșterii și dezvoltării pe piață</li>
+</ul>
+</article>
+
+</div>
+</section>
+
+<section class="dark">
+<div class="wrap cta">
+<div>
+<h2>Ești pregătit să îți dezvolți afacerea de transport?</h2>
+<p>Indiferent dacă intri pentru prima dată pe piața din România sau îți extinzi operațiunile existente, HOBKUS este partenerul tău de implementare încă din prima zi.</p>
+</div>
+<a class="btn gold" href="contact.html">Contactează-ne</a>
+</div>
+</section>
+
+<footer>
+<div class="wrap">
+<div class="fgrid">
+
+<div>
+<a class="logo" href="index.html">
+<img src="../img/hobkus-logo.svg" alt="HOBKUS Consulting" style="width:115px;height:auto;display:block;">
+</a>
+<p>Sprijin practic pentru companii de transport și afaceri internaționale care își dezvoltă operațiunile în România.</p>
+</div>
+
+<div>
+<h4>Servicii</h4>
+<ul>
+<li><a href="services.html">Înființare companii și conformitate</a></li>
+<li><a href="services.html">Deschiderea unei filiale în România</a></li>
+<li><a href="services.html">Resurse umane și organizare</a></li>
+<li><a href="services.html">Management flotă și furnizori</a></li>
+<li><a href="services.html">Operațiuni și KPI</a></li>
+<li><a href="services.html">Dezvoltare comercială</a></li>
+</ul>
+</div>
+
+<div>
+<h4>Companie</h4>
+<ul>
+<li><a href="about.html">Despre noi</a></li>
+<li><a href="services.html">Servicii</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</div>
+
+</div>
+<div class="fbar">
+<span>© 2026 HOBKUS Consulting. Toate drepturile rezervate.</span>
+<span>STRATEGIE | OAMENI | OPERAȚIUNI</span>
+</div>
+</div>
+</footer>
+
+</body>
+</html>
